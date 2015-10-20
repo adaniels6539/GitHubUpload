@@ -39,7 +39,7 @@ System.out.println("5 to the 3rd power is:" + Math.pow(5, 3));
 System.out.println("69.999 rounded down is:" + Math.floor(69.999));
 System.out.println("69.001 rounded up is:" + Math.ceil(69.001));
 System.out.println("69.499 rounded to the nearest integer is:" + Math.round(69.499));
-System.out.println("69.5 rouded to the nearest integer is 70" + Math.round(69.5));
+System.out.println("69.5 rouded to the nearest integer is: " + Math.round(69.5));
 
 
 

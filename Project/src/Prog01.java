@@ -25,6 +25,7 @@ public class Prog01
 	System.out.print("Antonio Daniels");
 	System.out.print("456 Skyline Road");
 	System.out.print("Dale, TX" + " " + Lamp);	
+	System.out.println("Hi mom");
 	}
 }
 
